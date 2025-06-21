@@ -1,0 +1,14 @@
+#btn {
+  color: black;
+  font-size: 28px;
+  font-name: "Helvetica", "Times New Roman", sans-serif;
+}
+
+#btn.first {
+  background-color: black;
+  color: white;
+}
+
+#btn.more-important {
+  background-color: yellow;
+}
